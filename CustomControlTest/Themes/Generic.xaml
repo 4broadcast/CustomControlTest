@@ -6,7 +6,7 @@
     <ResourceDictionary.MergedDictionaries>
         <ResourceDictionary Source="/Themes/BgLabelControl.xaml"/>
         <ResourceDictionary Source="/Themes/ExtendedControl.xaml"/>
-        
+        <ResourceDictionary Source="/Themes/TreeViewEx.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 
 </ResourceDictionary>
